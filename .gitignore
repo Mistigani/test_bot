@@ -1,0 +1,5 @@
+sttings.py
+*.log
+.venv/
+.idea/
+__pycache__/
